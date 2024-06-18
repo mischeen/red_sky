@@ -1,0 +1,15 @@
+# Ignore the virtual environment folder
+redsky/
+
+# Ignore other common files and folders
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.env
+.venv
+.DS_Store
+.vscode/
+*.log
+*.sqlite3
+node_modules/
